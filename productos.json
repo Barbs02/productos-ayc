@@ -1,0 +1,178 @@
+{
+    "productos":[
+        {
+            "id": "1",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "2",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "3",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "4",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "5",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "6",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "7",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        },        {
+            "id": "8",
+            "nombre": "blusa",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": "../assets/img/blusa-blanca-shein.webp"
+            
+        }, 
+        
+        { 
+            "id": "9",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "10",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "11",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "12",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "13",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "14",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },
+        {
+            "id": "15",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "16",
+            "nombre": "pantalones",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },      
+        
+        {
+            "id": "17",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "18",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "19",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "20",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "21",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "22",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "23",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        },        {
+            "id": "24",
+            "nombre": "zapatos",
+            "precio": "$10.000",
+            "descripcion": "descripcion del productos",
+            "fotos": ""
+            
+        }     
+    ]
+}
